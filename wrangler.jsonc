@@ -1,7 +1,7 @@
 {
   // One Worker serves the whole portfolio (static files) plus the contact form at /api/contact.
   "name": "portfolio",
-  "main": "worker/index.js",
+  "main": "index.js",
   "compatibility_date": "2025-10-01",
   "assets": {
     "directory": "./",
